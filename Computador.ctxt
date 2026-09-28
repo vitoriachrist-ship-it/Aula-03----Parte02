@@ -1,0 +1,12 @@
+#BlueJ class context
+#Mon Sep 28 18:46:19 BRT 2026
+comment0.target=Computador
+comment1.params=processador capacidadeProcessador memoriaRAM preco
+comment1.target=Computador(java.lang.String, double, int, double)
+comment2.target=double getCapacidadeProcessador()
+comment3.params=capacidadeProcessador
+comment3.target=void setCapacidadeProcessador(double)
+comment4.target=java.lang.String getProcessador()
+comment5.target=int getMemoriaRAM()
+comment6.target=double getPreco()
+numComments=7
